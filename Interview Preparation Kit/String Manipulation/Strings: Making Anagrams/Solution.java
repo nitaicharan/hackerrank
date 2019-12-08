@@ -15,7 +15,7 @@ public class Solution {
       double diff = Collections.frequency(auxa, c) - Collections.frequency(auxb, c);
 
       if(diff != 0){
-        double d = Math.sqrt(diff*diff);
+        double d = Math.abs(diff);
         auxdiff += d;
         auxa.removeAll(Arrays.asList(c));
         auxb.removeAll(Arrays.asList(c));
