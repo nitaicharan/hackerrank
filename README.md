@@ -4,9 +4,9 @@
 ![Java][java-shield]
 
 ### [String Manipulation](Interview%20Preparation%20Kit/String%20Manipulation)
-| Title | Solution | Java Versions |
-|:-:|:-:|:-:|
-|[Strings: Making Anagrams](Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Problem.md)| [Java](Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java) <br> | [v1.0](https://github.com/nitaicharan/hackerrank/blob/6e01edb7d085d8d2ef5ae1d0995a01747ee3bd20/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java) <br> [v2.0](https://github.com/nitaicharan/hackerrank/blob/c3a72f0f4214ada5d72e8e6a0ad9b95c5024fdbd/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java)|
+| Title | Solution | Java Versions | Submissions |
+|:-:|:-:|:-:|:--:|
+|[Strings: Making Anagrams](Interview%20Preparation%20Kit/String%20Manipulation/)| [Java](Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java) | [v1](https://github.com/nitaicharan/hackerrank/blob/d98bd63c7952f3555580ae1353e305875bafb164/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java) [v2](https://github.com/nitaicharan/hackerrank/blob/33c37e73adf63c41983f8670ce1f8dc96f0aa335/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java) [v3](https://github.com/nitaicharan/hackerrank/blob/6f139720630aa181bdee4e8e8edffcabb9741382/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java)| [HackerRank](https://www.hackerrank.com/challenges/ctci-making-anagrams/submissions) |
 
 ## Contact
 [![Gmail][gmail-shield]][gmail-url]
