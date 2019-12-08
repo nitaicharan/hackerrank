@@ -4,9 +4,9 @@
 ![Java][java-shield]
 
 ### [String Manipulation](Interview%20Preparation%20Kit/String%20Manipulation)
-| Title | Solution | Time | Space | Difficulty | Points | Note |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[Strings: Making Anagrams](Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Problem.md)| [Java](#)<br>[C](#) | _O(1)_ | _O(1)_| Easy | 1 | ||
+| Title | Solution | Java Versions |
+|:-:|:-:|:-:|
+|[Strings: Making Anagrams](Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Problem.md)| [Java](Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java) <br> | [v1.0](https://github.com/nitaicharan/hackerrank/blob/6e01edb7d085d8d2ef5ae1d0995a01747ee3bd20/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java) <br> [v2.0](https://github.com/nitaicharan/hackerrank/blob/c3a72f0f4214ada5d72e8e6a0ad9b95c5024fdbd/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java)|
 
 ## Contact
 [![Gmail][gmail-shield]][gmail-url]
