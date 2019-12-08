@@ -1,46 +1,35 @@
-import java.io.*;
-import java.util.*;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
 
 public class Solution {
 
   // Complete the makeAnagram function below.
   static int makeAnagram(String a, String b) {
-    List auxa = asList(a);
-    List auxb = asList(b);
-    double auxdiff = 0;
+    char[] charsa = a.toCharArray();
+    char[] charsb = b.toCharArray();
+    int[] auxa = toIntArray(charsa);
+    int[] auxb = toIntArray(charsb);
 
-    while( auxa.size() > 0){
-      Character c = (Character) auxa.get(0);
+    int count = 0;
 
-      double diff = Collections.frequency(auxa, c) - Collections.frequency(auxb, c);
-
-      if(diff != 0){
-        double d = Math.abs(diff);
-        auxdiff += d;
-        auxa.removeAll(Arrays.asList(c));
-        auxb.removeAll(Arrays.asList(c));
-      }else{
-        auxa.removeAll(Arrays.asList(c));
-        auxb.removeAll(Arrays.asList(c));
-      }
+    for (int i=0; i < auxa.length; i++) {
+      count += Math.abs(auxa[i]-auxb[i]);
     }
 
-    return (int)Math.round(auxdiff += auxb.size());
+    return count;
   }
 
-  private static List asList(String text){
-    List aux = new ArrayList<Character>();
+  private static  int[] toIntArray(char[] aux){
+    int[] array = new int['z'-'a'+1];
 
-    for(int i=0; i < text.length(); i++){
-      aux.add(text.charAt(i));
+    for (char i : aux) {
+      array[i-'a']++;
     }
-    return aux;
-  }
 
-  private static int countDiffs(){
-    return 1;
+    return array;
   }
-
 
   private static final Scanner scanner = new Scanner(System.in);
 
@@ -57,9 +46,7 @@ public class Solution {
     bufferedWriter.newLine();
 
     bufferedWriter.close();
-
+  
     scanner.close();
   }
 }
-
-
