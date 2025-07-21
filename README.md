@@ -1,14 +1,25 @@
 # HackerRank solutions
+
 <!-- PROJECT SHIELDS -->
+
 ![HackerRank][hackerrank-shield]
 ![Java][java-shield]
+![React][react-shield]
 
-### [String Manipulation](Interview%20Preparation%20Kit/String%20Manipulation)
-| Title | Solution | Java Versions | Submissions |
-|:-:|:-:|:-:|:--:|
-|[Strings: Making Anagrams](Interview%20Preparation%20Kit/String%20Manipulation/)| [Java](Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java) | [v1](https://github.com/nitaicharan/hackerrank/blob/d98bd63c7952f3555580ae1353e305875bafb164/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java) [v2](https://github.com/nitaicharan/hackerrank/blob/33c37e73adf63c41983f8670ce1f8dc96f0aa335/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java) [v3](https://github.com/nitaicharan/hackerrank/blob/6f139720630aa181bdee4e8e8edffcabb9741382/Interview%20Preparation%20Kit/String%20Manipulation/Strings:%20Making%20Anagrams/Solution.java)| [HackerRank](https://www.hackerrank.com/challenges/ctci-making-anagrams/submissions) |
+### [Interview Preparation Kit](Interview%20Preparation%20Kit)
+
+|                                    Title                                    |                                                Solution                                                |                               Submissions                                |
+| :-------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| [String Manipulation](Interview%20Preparation%20Kit/String%20Manipulation/) | [Java](Interview%20Preparation%20Kit/String%20Manipulation/Java/Solution.java) | [HackerRank](https://www.hackerrank.com/challenges/ctci-making-anagrams) |
+
+### [React](React/)
+
+|                       Title                       |             Versions              |                              Description                              |
+| :-----------------------------------------------: | :-------------------------------: | :-------------------------------------------------------------------: |
+| [Item List Manager](React/Item%20List%20Manager/) | [v1](React/Item%20List%20Manager) | [HackerRank](https://www.hackerrank.com/challenges/item-list-manager) |
 
 ## Contact
+
 [![Gmail][gmail-shield]][gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
@@ -21,6 +32,7 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- CONTACT SHIELDS -->
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?logo=linkedin&colorB=0077B5&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/nitaicharan/
 [gmail-shield]: https://img.shields.io/badge/-Gmail-black.svg?logo=gmail&colorB=D14836&logoColor=white
@@ -39,6 +51,7 @@
 [hackerrank-url]: https://www.hackerrank.com/nitaicharan
 
 <!-- PROJECT SHIELDS -->
+
 [html5-shield]: https://img.shields.io/badge/-HTML5-black.svg?logo=html5&colorB=E34F26&logoColor=white
 [css3-shield]: https://img.shields.io/badge/-CSS3-black.svg?logo=css3&colorB=1572B6&logoColor=white
 [sass-shield]: https://img.shields.io/badge/-SASS-black.svg?logo=sass&colorB=CC6699&logoColor=white
@@ -51,6 +64,7 @@
 [jquery-shield]: https://img.shields.io/badge/-jQuery-white.svg?logo=jquery&colorB=0769AD&logoColor=white
 
 ## License
+
 Copyright &copy; Nitai Charan. All rights reserved.
 
 Licensed under the [GNU General Public License v3.0](LICENSE) license.
