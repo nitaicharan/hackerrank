@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="0.063">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2025-08-01T18:12:49" time="0.058" tests="3">
+    <testcase classname=" displays error message when fields are empty and submit is clicked" name=" displays error message when fields are empty and submit is clicked" time="0.003">
+    </testcase>
+    <testcase classname=" displays submitted data when form is submitted with valid inputs" name=" displays submitted data when form is submitted with valid inputs" time="0.003">
+    </testcase>
+    <testcase classname=" clears input fields after successful submission" name=" clears input fields after successful submission" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>
