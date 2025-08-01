@@ -5,13 +5,13 @@ import "./App.css";
 
 function App() {
   const [items, setItems] = useState([]);
-  const ref = useRef("");
+  const inputRef = useRef("");
 
   const handleAddItem = () => {
-    if (!ref.current.value?.length) return;
+    if (!inputRef.current.value?.length) return;
 
-    setItems([...items, ref.current.value]);
-    ref.current.value = "";
+    setItems([...items, inputRef.current.value]);
+    inputRef.current.value = "";
   };
 
   return (
@@ -20,7 +20,7 @@ function App() {
       <div className="App">
         <h3>Item List</h3>
         <input
-          ref={ref}
+          ref={inputRef}
           type="text"
           placeholder="Enter item"
           data-testid="input-field"

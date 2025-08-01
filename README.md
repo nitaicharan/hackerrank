@@ -8,15 +8,16 @@
 
 ### [Interview Preparation Kit](Interview%20Preparation%20Kit)
 
-|                                    Title                                    |                                                Solution                                                |                               Submissions                                |
-| :-------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| [String Manipulation](Interview%20Preparation%20Kit/String%20Manipulation/) | [Java](Interview%20Preparation%20Kit/String%20Manipulation/Java/Solution.java) | [HackerRank](https://www.hackerrank.com/challenges/ctci-making-anagrams) |
+|                                Challenges                                 |                                    Solution                                    |
+| :-----------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+| [Description](https://www.hackerrank.com/challenges/ctci-making-anagrams) | [Java](Interview%20Preparation%20Kit/String%20Manipulation/Java/Solution.java) |
 
 ### [React](React/)
 
-|                       Title                       |             Versions              |                              Description                              |
-| :-----------------------------------------------: | :-------------------------------: | :-------------------------------------------------------------------: |
-| [Item List Manager](React/Item%20List%20Manager/) | [v1](React/Item%20List%20Manager) | [HackerRank](https://www.hackerrank.com/challenges/item-list-manager) |
+|                                Challenges                                 |                          Title                          |
+| :-----------------------------------------------------------------------: | :-----------------------------------------------------: |
+|  [Description](https://www.hackerrank.com/challenges/item-list-manager)   |    [Item List Manager](React/Item%20List%20Manager/)    |
+| [Description](https://www.hackerrank.com/challenges/code-review-feedback) | [Code Review Feedback](React/Code%20Review%20Feedback/) |
 
 ## Contact
 
