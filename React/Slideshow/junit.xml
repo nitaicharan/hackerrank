@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="2" failures="0" errors="0" time="0.05">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2025-08-01T17:53:17" time="0.044" tests="2">
+    <testcase classname=" App renders correctly" name=" App renders correctly" time="0.002">
+    </testcase>
+    <testcase classname=" Switching between slides works as expected" name=" Switching between slides works as expected" time="0.006">
+    </testcase>
+  </testsuite>
+</testsuites>
